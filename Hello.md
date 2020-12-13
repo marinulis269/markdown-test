@@ -50,9 +50,12 @@ print("hola mundo)
 
 <!-- GITHUB MARKDOWN-->
 * [X] Task 1
-* [] Task 2
-* [] Task 3
+* [ ] Task 2
+* [ ] Task 3
 * [X] Task 4
+
+@faztweb: smiley: :+1:
+
 
 
 
